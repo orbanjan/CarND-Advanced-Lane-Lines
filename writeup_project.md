@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [image3]: ./examples/combined_undist_straight_lines2.jpg "Binary Example"
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./examples/b_undist_straight_lines2 "Output"
+[image6]: ./examples/b_undist_straight_lines2.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
