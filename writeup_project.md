@@ -105,10 +105,10 @@ I implemented this step in cell #24 `drawLanes()`.  Here is an example of my res
 
 Here's a [link to my video result](./project_video_out.mp4)
 
----
+---riasios 
 
 ### Discussion
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
+One approch to impove the pipele is that we need to search nearby pixels in the prvious image. Huge variry importatntations in the curvature could not happen. Very important to have a quick search applied during the frames.
