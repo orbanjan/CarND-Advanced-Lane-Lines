@@ -1,4 +1,4 @@
-## Writeup Template
+combined_undist_straight_lines2.jpg## Writeup Template
 
 ### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
 
@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./examples/undistort_output.png "Undistorted"
 [image2]: ./examples/undist_straight_lines2.jpg "Road Transformed"
-[image3]: ./examples/binary_combo_example.jpg "Binary Example"
+[image3]: ./examples/combined_undist_straight_lines2.jpg "Binary Example"
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
 [image6]: ./examples/example_output.jpg "Output"
